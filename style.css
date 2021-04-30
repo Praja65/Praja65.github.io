@@ -1,0 +1,15 @@
+h1 {font-family:georgia;
+	text-align: center;
+	color:yellow }
+h3{font-family: georgia;
+	text-align: center;
+	color: yellow}
+body {font-family: times new Roman;
+	color: yellow;
+	background-image:url(https://wallpapercave.com/wp/lKlqTGz.jpg);
+	margin: 50px 50px 50px 50px;}
+table{border-spacing:5px}
+th
+{background-color:darkviolet}
+div{border: 3px;padding: 20px 20px 20px}
+
